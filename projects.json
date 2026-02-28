@@ -8,7 +8,7 @@
     "pages": "myWebsite",
     "feat": "Gemini",
     "legacy": false,
-    "end": true
+    "end": false
   },
   {
     "title": "Bean CPU",
