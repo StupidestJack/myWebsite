@@ -1,4 +1,15 @@
 [
+ {
+    "title": "StupidestJack的個人宇宙",
+    "description": "由AI編寫的小網站，把之前倆站點整合進一個",
+    "language": "HTML",
+    "date": "2026-2-28",
+    "github": "myWebsite",
+    "pages": "myWebsite",
+    "feat": "Gemini",
+    "legacy": false,
+    "end": true
+  },
   {
     "title": "Bean CPU",
     "description": "基於 C# 的 16-bit CPU 模擬器，人生第一次跟人類合作",
@@ -18,7 +29,7 @@
     "github": "blog",
     "feat": "Gemini",
     "legacy": false,
-    "end":false
+    "end":true
   },
   {
     "title": "Candyshell",
